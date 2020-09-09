@@ -1,0 +1,2 @@
+# schnitsel-kota
+my-repository
